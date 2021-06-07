@@ -1,2 +1,2 @@
-# Linkedin_Job_Scraper
+# Linkedin Job Scraper
 This is a Linkedin scraper!
