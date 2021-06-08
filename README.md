@@ -6,7 +6,7 @@ Scrap jobs on linkedin that interest you, then saves them on a MySQL DB and, if 
 
 ## IMPORTANT
 
-You will need a MySQL table with 5 columns:
+In your DB, you will need table with 5 columns:
 
 1. job_title
 2. company_name
